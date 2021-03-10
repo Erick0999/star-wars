@@ -1,0 +1,55 @@
+
+h1{
+	color:#DCBF0A; 
+	background:#000;
+}
+h2{
+	font-size:25px;
+	color:#646162;
+}
+
+p{
+	font-size:20px;
+	border: 5px solid#000;
+	background:blue;
+	width: 50%
+}
+h3{
+	font-size:25px;
+	border: 5px solid#000;
+	background:#157465;
+	width: 50%;
+}
+h4{
+	font-size:25px;
+	border: 5px solid#000;
+	background:#157465;
+	width: 50%;
+}
+a{
+	font-size:25px;
+	border: 5px solid#000;
+	background:#157465;
+	width: 50%;
+}
+}
+h5{
+	font-size:25px;
+	border: 5px solid#000;
+	background:#157465;
+	width: 50%;
+}
+h6{
+	font-size:25px;
+	border: 5px solid#000;
+	background:#157465;
+	width: 50%;
+}
+div{
+	font-size:20px;
+	color:purple;
+}
+body{
+	background:url(../imagenes/fondo-pantalla-star-wars-7.jpg);
+	background-repeat:repeat-y;
+}
